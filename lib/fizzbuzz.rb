@@ -1,1 +1,3 @@
-puts "hello world"
+def fizzbuzz(number)
+  "fizz"
+end
